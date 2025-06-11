@@ -1,7 +1,7 @@
 import React from "react";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import './css/style.css';
-import Layout from "./components/Layout";
+import Layout from "./cos/Layout";
 import Home from "./podstrony/Home";
 import NicBank from "./podstrony/NicBank";
 import NicFizyka from "./podstrony/NicFizyka";
